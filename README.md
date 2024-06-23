@@ -47,5 +47,5 @@ Update the database configuration in src/main/resources/application.properties w
 **License**
   This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+Acknowledgements: 
 Special thanks to 'Vattikuti Nagendra Satya Chowdary' for his contributions to this Project and 'Dr. Chirra Venkata Rami Reddy' for his guidance.
